@@ -1,0 +1,33 @@
+main {
+    margin-left: 15pt;
+    margin-right: 15pt;
+    
+}
+.display_option{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.report{
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 0 0 15 brown;
+    padding: 15px;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+}
+.centr{
+    text-align: center;
+}
+.obzatc{
+    margin-left: 15pt;
+}
+.background{
+    background-color:bisque;
+    margin: 20pt;
+}
