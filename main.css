@@ -15,14 +15,14 @@ main {
     margin-right: auto;
     border-style: solid;
     border-radius: 10px;
-    box-shadow: 0 0 15 brown;
     padding: 15px;
     text-align: center;
     font-style: italic;
     font-size: large;
 }
 .centr{
-    text-align: center;
+    justify-content: center;
+    display:flex;
 }
 .obzatc{
     margin-left: 15pt;
